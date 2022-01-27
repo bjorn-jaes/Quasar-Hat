@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Quasar-hat-rescue)(type Legacy)(uri ${KIPRJMOD}/Quasar-hat-rescue.lib)(options "")(descr ""))
+  (lib (name ConnectTech)(type Legacy)(uri ${KIPRJMOD}/Scematics/ConnectTech.lib)(options "")(descr ""))
+  (lib (name Custom_Buttons)(type Legacy)(uri ${KIPRJMOD}/Scematics/Custom_Buttons.lib)(options "")(descr ""))
+  (lib (name Custom_Connectors)(type Legacy)(uri ${KIPRJMOD}/Scematics/Custom_Connectors.lib)(options "")(descr ""))
+  (lib (name Gps)(type Legacy)(uri ${KIPRJMOD}/Scematics/Gps.lib)(options "")(descr ""))
+)

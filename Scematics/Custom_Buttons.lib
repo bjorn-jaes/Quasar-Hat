@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MiniIluminationPowerSwitch
+#
+DEF MiniIluminationPowerSwitch BTN 0 40 Y Y 1 F N
+F0 "BTN" 0 0 50 H V C CNN
+F1 "MiniIluminationPowerSwitch" 50 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C -80 -350 20 1 1 0 N
+C 80 -350 20 1 1 0 N
+P 2 0 1 0 -250 -450 -250 -350 N
+P 2 0 1 0 -250 -350 -100 -350 N
+P 2 0 1 0 250 -450 250 -350 N
+P 3 0 1 0 -150 -625 -150 -650 -125 -650 N
+P 2 1 1 0 -150 -650 -100 -600 N
+P 2 1 1 0 -100 -650 -50 -600 N
+P 2 1 1 0 -100 -550 100 -550 N
+P 2 1 1 0 -25 -600 -25 -500 N
+P 2 1 1 0 0 -300 0 -230 N
+P 2 1 1 0 100 -300 -100 -300 N
+P 2 1 1 0 250 -350 100 -350 N
+P 3 1 1 0 -100 -625 -100 -650 -75 -650 N
+P 4 1 1 0 -25 -550 50 -600 50 -500 -25 -550 F
+X 1 1 -350 -350 100 R 50 50 1 1 P
+X 2 2 -350 -450 100 R 50 50 1 1 P
+X 3 3 350 -350 100 L 50 50 1 1 P
+X 4 4 350 -450 100 L 50 50 1 1 P
+X K 5 -350 -550 100 R 50 50 1 1 P
+X A 6 350 -550 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

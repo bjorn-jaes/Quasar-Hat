@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD-PA1616D
+D Gps module
+K GPS
+F https://cdn-shop.adafruit.com/product-files/5186/5186_PA1616D_Datasheet.pdf
+$ENDCMP
+#
+$CMP FGPMMOPA6H
+D CD-PA1616S GPS patch antenna module
+$ENDCMP
+#
+#End Doc Library

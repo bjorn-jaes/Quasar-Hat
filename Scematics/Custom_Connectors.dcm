@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 54-00216-Male-M12-A
+D Male M12 circilar connector type A
+K M12 Type-A Male
+F https://www.digikey.no/no/products/detail/tensility-international-corp/54-00216/13548383
+$ENDCMP
+#
+$CMP 54-00235-Female-M12-A
+D Female M12 circilar connector type A
+K M12 Type-A Female
+F https://tensility.s3.amazonaws.com/uploads/pdffiles/54-00235.pdf?X-Amz-Expires=600&X-Amz-Date=20220111T162802Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIS2S4WRDQDSWDRZQ%2F20220111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2683d367081234394b96f02bf8d48c69b49d9cc1fa57f74be99c236f66989e7a
+$ENDCMP
+#
+#End Doc Library

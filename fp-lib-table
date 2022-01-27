@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Custom_Buttons)(type KiCad)(uri ${KIPRJMOD}/Footprints/Custom_Buttons.pretty)(options "")(descr ""))
+  (lib (name Custom_Connectors)(type KiCad)(uri ${KIPRJMOD}/Footprints/Custom_Connectors.pretty)(options "")(descr ""))
+  (lib (name Gps)(type KiCad)(uri ${KIPRJMOD}/Footprints/Gps.pretty)(options "")(descr ""))
+)
